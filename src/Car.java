@@ -29,5 +29,4 @@ public class Car {
         return "Wheels: " + wheels + "cylinders: " + cylinders + "\n";
     }
     
-    //(add cars toString and print)
 }
